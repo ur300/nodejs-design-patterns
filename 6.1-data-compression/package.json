@@ -1,0 +1,22 @@
+{
+  "name": "data-compression-streaming",
+  "version": "1.0.0",
+  "description": "File streaming with chunked data transfer",
+  "main": "server/index.js",
+  "scripts": {
+    "start-server": "node server/index.js",
+    "start-client": "node client/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streaming",
+    "file-upload",
+    "chunks",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
