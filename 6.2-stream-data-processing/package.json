@@ -1,0 +1,23 @@
+{
+  "name": "fraud-analysis-stream-processing",
+  "version": "1.0.0",
+  "description": "Stream processing analysis of payment fraud data using Node.js streams",
+  "main": "fraud-analysis-improved.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stream-processing",
+    "fraud-detection",
+    "nodejs",
+    "data-analysis",
+    "transform-streams",
+    "pass-through-streams"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
